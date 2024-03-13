@@ -1,4 +1,4 @@
-# ETKRes-ChnF
+# ETKRes-ChannelF
 
 Resources for Emuteca: **Fairchild Channel F**
 
@@ -8,7 +8,7 @@ Icons, images, texts, videos, etc. for use with [Emuteca](https://github.com/Chi
 
 Use GIT to clone the repository or download it in zip:
 
-https://github.com/Chixpy/ETKRes-ChnF/archive/master.zip
+https://github.com/Chixpy/ETKRes-ChannelF/archive/main.zip
 
 ## About Emuteca's Media search.
 
