@@ -1,0 +1,1 @@
+This game features a simulation of the card game five-card draw poker. 3 players (either 1 or 2 can be human, the rest are controlled by the computer) are dealt five cards each. Players then take turns either calling or raising a bet (which can be up to 

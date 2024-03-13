@@ -1,0 +1,3 @@
+Tennis, one of the two built-in games of the Fairchild Channel F system, is a simple Pong clone. Two players compete by passing back and forth a ball with paddles. If a player misses the ball, his opponent gets a point.
+
+In Tennis, the players can choose from 4 different game speeds. A round can be configured to end as soon as one player reaches a score of 15, or after a time limit of 2, 5, 10, or 20 minutes.

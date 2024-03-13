@@ -1,0 +1,5 @@
+One of the two built-in games of the Fairchild Channel F system, Hockey is an extended version of the Pong concept.
+
+Two players try to get the ball to land in their opponent's goal. The paddles can be moved not only up and down, but all across the playfield. They can even be tilted to have the ball reflect in another direction. In addition to the main paddles, both players also have a special goal keeper paddle that they can move up and down between the poles.
+
+There are four ball speeds to choose from. Matches end when either one of the players reaches a score of 15, or after a time limit of 2, 5, 10, or 20 minutes. If the game ends in a tie, the players can decide to play 1 minute of overtime.

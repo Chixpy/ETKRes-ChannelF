@@ -1,0 +1,1 @@
+This game attempts to simulate a slot machine. The player can choose their starting purse (from
